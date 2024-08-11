@@ -1,4 +1,4 @@
-Data, code, and results relating to the submission of "_A biomimetic hybrid robotic prosthetic hand with embedded multilayered neuromorphic tactile sensing_" to Science Robotics. 
+Data, code, and results relating to the submission of "_A natural biomimetic prosthetic hand with neuromorphic tactile sensing for precise and compliant grasping_" to Science Advances. 
 
 The "Texture_discrimination_processing.m" file, in the “Texture discrimination code” folder, details the steps of bringing in the raw texture data and performing the texture discrimination process using neuromorphic encoding and machine learning for classification. 
 
